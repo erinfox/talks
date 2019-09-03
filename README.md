@@ -17,7 +17,7 @@ Inspired by [Jason Lengstorf](https://lengstorf.com/) & [Kylie Stewart](https://
 ### Short version
 
 > Erin Fox is an international speaker who has found a home in the React Community. Whether it’s building out projects in React or React Native, she enjoys a good Flexbox challenge and finding different UI solutions. She’s passionate about explaining things simply and cats. She lives in the Bay Area, California. 
--->
+>
 
 
 ### Long version
@@ -25,7 +25,7 @@ Inspired by [Jason Lengstorf](https://lengstorf.com/) & [Kylie Stewart](https://
 > I’m Erin - raised in the Bay Area, schooled in Sonoma, Hawaii, and NYC. I’m a software engineer with a drive for React, React Native and GraphQL. Explaining things simply and cats are my passions. I’m really great at breaking things so my hungry to learn is always around.
 As for for background details: I hold a MA in Communication from Hawaii Pacific University and previously worked at Major League soccer on the mobile UI team. I’ve given talks internationally and across the country on the work I’ve been doing. 
 On the side I keep busy with new side projects, reading all of Reese Witherspoon’s bookclub books, re-watching Frontend Master courses, and tweeting about all that on Twitter. 
--->
+>
 
 
 ## Talks
