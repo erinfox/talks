@@ -7,7 +7,7 @@ Inspired by [Jason Lengstorf](https://lengstorf.com/) & [Kylie Stewart](https://
 ## What’s In This Repo?
 
 - [Bio and my details](#about-erin)
-- [Technical Talks with their slides and videos (when available)(#talks)
+- [Technical Talks with their slides and videos (when available)](#talks)
 
 
 ## About Erin
