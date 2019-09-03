@@ -40,8 +40,7 @@ On the side I keep busy with new side projects, reading all of Reese Witherspoon
 
 ### Learning React Native as a Junior Engineer
 
-#### (Presented in July 2018) - Chain React Conference
-#### (Presented in September 2018) - React Boston Conference
+#### (Presented in July 2018) - [Chain React Conference](https://infinite.red/ChainReactConf) & (September 2018) - [React Boston Conference](https://www.reactboston.com/)
 
 - [Slides](https://docs.google.com/presentation/d/1pe6D7JhUgwKGtOa4HE7eQukNg8lzDUXBcj6YgPGjkaE/edit?usp=sharing)
 - [Video](https://www.youtube.com/watch?list=PLFHvL21g9bk1skdjnKVGXREDmP_HVDj-u&time_continue=1&v=N9QAbH0JaD0)
