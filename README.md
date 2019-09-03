@@ -6,7 +6,7 @@ Inspired by [Jason Lengstorf](https://lengstorf.com/) & [Kylie Stewart](https://
 
 ## What’s In This Repo?
 
-- [Bio and my details](#about-erin)
+- [Bio and details](#about-erin)
 - [Technical Talks with their slides and videos (when available)](#talks)
 
 
