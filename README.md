@@ -30,6 +30,12 @@ On the side I keep busy with new side projects, reading all of Reese Witherspoon
 
 ## Talks
 
+### React Native & Accessibility 
+
+#### (Presented in January 2020) - [AgentConf](https://agent.sh/)
+
+- [Slides](http://bit.ly/rn-a11y)
+
 ### React Native + Storybook = <3
 
 #### (Presented in May 2019) - [ReactJS Girls Conference](https://reactjsgirls.com/)
