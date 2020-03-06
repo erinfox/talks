@@ -58,3 +58,7 @@ On the side I keep busy with new side projects, reading all of Reese Witherspoon
 
 - [Slides](https://docs.google.com/presentation/d/13WPnsvEr6XREmILirCrhsrZdO9UC9AOwjmrBQYdjb24/edit?usp=sharing)
 
+## Talks 
+
+Currently, all articles are hosted on [medium.com/erinfoox](https://medium.com/@erinfoox)
+
