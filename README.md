@@ -35,6 +35,7 @@ On the side I keep busy with new side projects, reading all of Reese Witherspoon
 #### (Presented in January 2020) - [AgentConf](https://agent.sh/)
 
 - [Slides](http://bit.ly/rn-a11y)
+- [Video](https://www.youtube.com/watch?v=oTHzScHpjoY&feature=youtu.be)
 
 ### React Native + Storybook = <3
 
