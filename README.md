@@ -31,7 +31,6 @@ On the side I keep busy with new side projects, reading all of Reese Witherspoon
 ## Talks
 
 ### Modern Way of Making Websites in React (Panel)
-
 #### April 2021 - [React Summit](https://reactsummit.com/)
 - [Recording](https://www.youtube.com/watch?v=iL_KjnHIc0o)
 
