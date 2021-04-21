@@ -30,21 +30,21 @@ On the side I keep busy with new side projects, reading all of Reese Witherspoon
 
 ## Talks
 
-### Modern Wat of Making Websites in React (Panel)
+### Modern Way of Making Websites in React (Panel)
 
-#### (April 2021) - [React Summit](https://reactsummit.com/)
+#### April 2021 - [React Summit](https://reactsummit.com/)
 - [Recording](https://www.youtube.com/watch?v=iL_KjnHIc0o)
 
 ### React Native & Accessibility 
 
-#### (Presented in January 2020) - [AgentConf](https://agent.sh/)
+#### January 2020 - [AgentConf](https://agent.sh/)
 
 - [Slides](http://bit.ly/rn-a11y)
 - [Video](https://www.youtube.com/watch?v=oTHzScHpjoY&feature=youtu.be)
 
 ### React Native + Storybook = <3
 
-#### (Presented in May 2019) - [ReactJS Girls Conference](https://reactjsgirls.com/)
+#### May 2019 - [ReactJS Girls Conference](https://reactjsgirls.com/)
 
 - [Slides](https://docs.google.com/presentation/d/1JwoN4F8qyWkpqzWxEiu1WGIl9mrDrmDyVCdlMb2skdk/edit?usp=sharing)
 - [Video](https://www.youtube.com/watch?v=vYI1riChSj4)
@@ -52,18 +52,18 @@ On the side I keep busy with new side projects, reading all of Reese Witherspoon
 
 ### Learning React Native as a Junior Engineer
 
-#### (Presented in July 2018) - [Chain React Conference](https://infinite.red/ChainReactConf) & (September 2018) - [React Boston Conference](https://www.reactboston.com/)
+#### July 2018 - [Chain React Conference](https://infinite.red/ChainReactConf) & (September 2018) - [React Boston Conference](https://www.reactboston.com/)
 
 - [Slides](https://docs.google.com/presentation/d/1pe6D7JhUgwKGtOa4HE7eQukNg8lzDUXBcj6YgPGjkaE/edit?usp=sharing)
 - [Video](https://www.youtube.com/watch?list=PLFHvL21g9bk1skdjnKVGXREDmP_HVDj-u&time_continue=1&v=N9QAbH0JaD0)
 
 ### Understanding GraphQL (Finally)
 
-#### (Presented in March 2018) - GraphQL NYC Meetup 
+#### March 2018 - GraphQL NYC Meetup 
 
 - [Slides](https://docs.google.com/presentation/d/13WPnsvEr6XREmILirCrhsrZdO9UC9AOwjmrBQYdjb24/edit?usp=sharing)
 
 ## Writing 
 
-Currently, all articles are hosted on [medium.com/erinfoox](https://medium.com/@erinfoox)
+Currently, all articles are hosted on [medium.com/erinfoox](https://medium.com/@erinfoox) or on [dev.to](https://dev.to/erinfoox)
 
