@@ -39,9 +39,7 @@ Inspired by [Jason Lengstorf](https://lengstorf.com/) & [Kylie Stewart](https://
 
 ### Long version
 
-> I’m Erin - raised in the Bay Area, schooled in Sonoma, Hawaii, and NYC. I’m a software engineer with a drive for React, React Native and GraphQL. Explaining things simply and cats are my passions. I’m really great at breaking things so my hungry to learn is always around.
-As for for background details: I hold a MA in Communication from Hawaii Pacific University and previously worked at Major League soccer on the mobile UI team. I’ve given talks internationally and across the country on the work I’ve been doing. 
-On the side I keep busy with new side projects, reading all of Reese Witherspoon’s bookclub books, re-watching Frontend Master courses, and tweeting about all that on Twitter. 
+> I’m Erin - raised in the Bay Area, schooled in Sonoma, Hawaii, and NYC. I’m a software engineer with a drive for JavaScript, React, explaining things simply and cats. I hold a MA in Communication from Hawaii Pacific University and previously worked at Major League Soccer on the mobile team. I’ve given talks internationally and across the US on the work I’ve been doing. I keep busy with new side projects, reading all of Reese Witherspoon’s bookclub books, re-watching Frontend Master courses, and tweeting about it all on Twitter. 
 >
 
 ## Talks
