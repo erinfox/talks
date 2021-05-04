@@ -20,9 +20,9 @@ Inspired by [Jason Lengstorf](https://lengstorf.com/) & [Kylie Stewart](https://
 - Will I receive a full ticket to the event to attend all the talks, workshops, etc?
 - What is your speaker fee?
 - What is your code of conduct and how do you enforce it?
-- What's the specific audience the talks? What do they tend to find most useful? 
+- What is the specific audience for the talks? What do they tend to find most useful? 
 - How many people are expected to attend?
-- How long are talks for the conference?
+- How long are talks expected to be?
 - What percentage of the overall speakers roster is Black or Latinx? I'm white and I've made a commitment to appear as a speaker at conferences that have more than token representation of people traditionally excluded from tech. 
 
 
