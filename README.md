@@ -6,9 +6,25 @@ Inspired by [Jason Lengstorf](https://lengstorf.com/) & [Kylie Stewart](https://
 
 ## What’s In This Repo?
 
-- [Bio and details](#about-erin)
 - [Questions I ask](#questions)
+- [Bio and details](#about-erin)
 - [Technical Talks with their slides and videos (when available)](#talks)
+
+## Questions
+
+(What I'll ask you if you ask me to talk at your event.)
+
+- Is travel to and from the event provided? 
+- Is lodging provided for the full length of the event? 
+- Will arriving one full day before the event be possible?
+- Will I receive a full ticket to the event to attend all the talks, workshops, etc?
+- What is your speaker fee?
+- What is your code of conduct and how do you enforce it?
+- What's the specific audience the talks? What do they tend to find most useful? 
+- How many people are expected to attend?
+- How long are talks for the conference?
+- What percentage of the overall speakers roster is Black or Latinx? I'm white and I've made a commitment to appear as a speaker at conferences that have more than token representation of people traditionally excluded from tech. 
+
 
 
 ## About Erin
@@ -27,23 +43,6 @@ Inspired by [Jason Lengstorf](https://lengstorf.com/) & [Kylie Stewart](https://
 As for for background details: I hold a MA in Communication from Hawaii Pacific University and previously worked at Major League soccer on the mobile UI team. I’ve given talks internationally and across the country on the work I’ve been doing. 
 On the side I keep busy with new side projects, reading all of Reese Witherspoon’s bookclub books, re-watching Frontend Master courses, and tweeting about all that on Twitter. 
 >
-
-## Questions
-
-(What I'll ask you if you ask me to talk at your event.)
-
-- Is travel to and from the event provided? 
-- Is lodging provided for the full length of the event? 
-- Will arriving one full day before the event be possible?
-- Will I receive a full ticket to the event to attend all the talks, workshops, etc?
-- What is your speaker fee?
-- What is your code of conduct and how do you enforce it?
-- What's the specific audience the talks? What do they tend to find most useful? 
-- How many people are expected to attend?
-- How long are talks for the conference?
-- What percentage of the overall speakers roster is Black or Latinx? I'm white and I've made a commitment to appear as a speaker at conferences that have more than token representation of people traditionally excluded from tech. 
-
-
 
 ## Talks
 
