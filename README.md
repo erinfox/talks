@@ -28,7 +28,9 @@ As for for background details: I hold a MA in Communication from Hawaii Pacific 
 On the side I keep busy with new side projects, reading all of Reese Witherspoon’s bookclub books, re-watching Frontend Master courses, and tweeting about all that on Twitter. 
 >
 
-## Questions I'll Ask When Offered to Speak at your Event
+## Questions
+
+(What I'll ask you if you ask me to talk at your event.)
 
 - Is travel to and from the event provided? 
 - Is lodging provided for the full length of the event? 
