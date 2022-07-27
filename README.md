@@ -9,6 +9,8 @@ Inspired by [Jason Lengstorf](https://lengstorf.com/) & [Kylie Stewart](https://
 - [Questions I ask](#questions)
 - [Bio and details](#about-erin)
 - [Technical Talks with their slides and videos (when available)](#talks)
+- [Writings](#writing)
+- [Podcasts](#podcasts)
 
 ## Questions
 
