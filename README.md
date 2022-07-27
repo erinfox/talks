@@ -84,6 +84,6 @@ Currently, all articles are hosted on [medium.com/erinfoox](https://medium.com/@
 
 ## Podcasts
 
-#### February 2021 - [Single Threaded](https://anchor.fm/single-threaded/episodes/Erin-Fox-on-Interviewing-eqg5nn)
-#### July 2022 - [DevJourney](https://devjourney.info/Guests/212-ErinFox)
+#### [Single Threaded](https://anchor.fm/single-threaded/episodes/Erin-Fox-on-Interviewing-eqg5nn) - February 2021
+#### [DevJourney](https://devjourney.info/Guests/212-ErinFox) - July 2022
 
