@@ -80,10 +80,12 @@ Inspired by [Jason Lengstorf](https://lengstorf.com/) & [Kylie Stewart](https://
 
 ## Writing 
 
-Currently, all articles are hosted on [medium.com/erinfoox](https://medium.com/@erinfoox) or on [dev.to](https://dev.to/erinfoox)
+Articles are hosted on [medium.com/erinfoox](https://medium.com/@erinfoox) or on [dev.to](https://dev.to/erinfoox)
+#### December 2021 - Apollo Blog, [Using GraphQL with Ruby on Rails](https://www.apollographql.com/blog/community/backend/using-graphql-with-ruby-on-rails/)
+#### June 2022 - Convertkit Engineering Blog, [A Story of Spotify Embeds](https://convertkit.engineering/2022/05/20/spotify-embeds/)
 
 ## Podcasts
 
-#### [Single Threaded](https://anchor.fm/single-threaded/episodes/Erin-Fox-on-Interviewing-eqg5nn) - February 2021
-#### [DevJourney](https://devjourney.info/Guests/212-ErinFox) - July 2022
+#### February 2021 - [Single Threaded](https://anchor.fm/single-threaded/episodes/Erin-Fox-on-Interviewing-eqg5nn)
+#### July 2022 - [DevJourney](https://devjourney.info/Guests/212-ErinFox)
 
