@@ -80,3 +80,8 @@ Inspired by [Jason Lengstorf](https://lengstorf.com/) & [Kylie Stewart](https://
 
 Currently, all articles are hosted on [medium.com/erinfoox](https://medium.com/@erinfoox) or on [dev.to](https://dev.to/erinfoox)
 
+## Podcasts
+
+### February 2021 - [Single Threaded](https://anchor.fm/single-threaded/episodes/Erin-Fox-on-Interviewing-eqg5nn)
+### July 2022 - [DevJourney](https://devjourney.info/Guests/212-ErinFox)
+
