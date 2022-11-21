@@ -89,6 +89,8 @@ A collection of conference talks I have given with their recording and article (
 Articles are hosted on [medium.com/erinfoox](https://medium.com/@erinfoox) or on [dev.to](https://dev.to/erinfoox)
 #### December 2021 - Apollo Blog, [Using GraphQL with Ruby on Rails](https://www.apollographql.com/blog/community/backend/using-graphql-with-ruby-on-rails/)
 #### June 2022 - Convertkit Engineering Blog, [A Story of Spotify Embeds](https://convertkit.engineering/2022/05/20/spotify-embeds/)
+#### November 2022 - Convertkit Engineering Blog, [How to get a Mentor Without Telling Them
+](https://convertkit.engineering/2022/11/13/how-to-get-a-mentor-without-telling-them/)
 
 ## Podcasts
 
