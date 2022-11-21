@@ -1,8 +1,6 @@
 # Conference Talks by Erin Fox 
 
-Consolidating all my talks into one place!
-
-Inspired by [Jason Lengstorf](https://lengstorf.com/) & [Kylie Stewart](https://github.com/kale-stew/talks).
+A collection of conference talks I have given with their recording and article (if available) as well as question organizations should answer if asking me to speak. 
 
 ## What’s In This Repo?
 
