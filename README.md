@@ -52,6 +52,7 @@ Inspired by [Jason Lengstorf](https://lengstorf.com/) & [Kylie Stewart](https://
 
 - [Slides](https://docs.google.com/presentation/d/19TOX8NUu2EiH-IVC5u4GNP0xwwuuD59gUyrAG3gL6W4/edit?usp=sharing)
 - [Video](https://portal.gitnation.org/contents/how-to-get-a-mentor-without-telling-them)
+- [Article](https://convertkit.engineering/2022/11/13/how-to-get-a-mentor-without-telling-them/)
 
 ### Modern Way of Making Websites in React (Panel)
 #### April 2021 - [React Summit](https://reactsummit.com/)
