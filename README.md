@@ -46,7 +46,7 @@ A collection of conference talks I have given with their recording and article (
 
 ### How to get a Mentor without Telling Them
 
-#### October 2022 - [React Advanced](https://reactadvanced.com/)
+#### October 2022 - [React Advanced](https://reactadvanced.com/) & [The Tech Lead Conference 2023](https://techleadconf.com/)
 
 - [Slides](https://docs.google.com/presentation/d/19TOX8NUu2EiH-IVC5u4GNP0xwwuuD59gUyrAG3gL6W4/edit?usp=sharing)
 - [Video](https://portal.gitnation.org/contents/how-to-get-a-mentor-without-telling-them)
