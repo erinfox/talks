@@ -93,6 +93,9 @@ Articles are hosted on [medium.com/erinfoox](https://medium.com/@erinfoox) or on
 
 ## Podcasts
 
+
+#### March 2024 - [Layofflog](https://www.youtube.com/watch?v=u0mAMnrpqt0)
+#### May 2023 - [Tech Leadership Decoded](https://techleadershipdecoded.podbean.com/e/1-how-to-get-a-mentor-without-telling-them-erin-fox/)
 #### February 2021 - [Single Threaded](https://anchor.fm/single-threaded/episodes/Erin-Fox-on-Interviewing-eqg5nn)
 #### July 2022 - [DevJourney](https://devjourney.info/Guests/212-ErinFox)
 
