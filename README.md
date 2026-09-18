@@ -1,4 +1,4 @@
-# Conference Talks,Podcasts, and Writing by Erin Fox 
+# Conference Talks, Podcasts, and Writing by Erin Fox 
 
 A collection of conference talks I have given with their recording and article (if available) as well as question organizations should answer if asking me to speak. 
 
